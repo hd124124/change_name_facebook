@@ -1,9 +1,9 @@
 const fullName = document.querySelector('.aov4n071 .lzcic4wl')
 const listNames = [
   '=))',
-  'Lap Trinh Vien',
-  'Developer',
-  'Coder',
+  'Hoang Duong dz',
+  'Pro trum siu cap',
+  'can may th trick lo',
   '1+1 =?',
   'I Love You',
 ]
